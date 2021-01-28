@@ -1,7 +1,10 @@
 {
-    "bg": "https://i2.wp.com/css-tricks.com/wp-content/uploads/2017/06/css-is-awesome-scaled.jpg?resize=1536%2C1208&ssl=1",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "bg": "https://www.itl.cat/pngfile/big/0-2455_hd-all-pokemon-wallpaper-hd-desktop-wallpapers-1080p.jpg",
+    "bg": "https://www.teahub.io/photos/full/95-955747_pokemon-pokeball-wallpaper-hd.jpg",
+    "bg": "https://wallpapercave.com/wp/L28yrCd.png",
+    "bg": "https://images7.alphacoders.com/828/thumb-1920-828731.jpg",
+    "title": "Poke Quiz",
+    "description": "Teste os seus conhecimentos sobre Pokemon e vamos ver se você é um mestre.",
     "questions": [
         {
             "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
