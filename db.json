@@ -1,36 +1,77 @@
 {
-    "bg": "https://www.itl.cat/pngfile/big/0-2455_hd-all-pokemon-wallpaper-hd-desktop-wallpapers-1080p.jpg",
-    "bg": "https://www.teahub.io/photos/full/95-955747_pokemon-pokeball-wallpaper-hd.jpg",
-    "bg": "https://wallpapercave.com/wp/L28yrCd.png",
-    "bg": "https://images7.alphacoders.com/828/thumb-1920-828731.jpg",
-    "title": "Poke Quiz",
-    "description": "Teste os seus conhecimentos sobre Pokemon e vamos ver se você é um mestre.",
+    "bg": "https://images7.alphacoders.com/532/532650.jpg",
+    "bg": "https://images5.alphacoders.com/532/532651.jpg",
+    "bg": "https://images2.alphacoders.com/283/283340.jpg",
+    "bg": "https://images.alphacoders.com/507/507430.jpg",
+    "bg": "https://images8.alphacoders.com/871/871515.jpg",
+    "title": "Marvel 616 Quiz",
+    "description": "Teste os seus conhecimentos sobre o universo regular Marvel nos quadrinhos, o chamado universo 616.",
     "questions": [
         {
-            "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-            "title": "Como fazer um seletor por id via CSS?",
+            "image": "https://mundodasempresas.files.wordpress.com/2016/07/thumbnail-marvel-character-logo.jpg",
+            "title": "Qual o primeiro super grupo do universo Marvel?",
             "description": "Essa é pra aquecer",
             "answer": 2,
             "alternatives": [
-                ".elemento",
-                "*elemento",
-                "#elemento",
-                "%elemento"
+                "Vingadores",
+                "X-Men",
+                "Quarteto Fantástico",
+                "Defensores"
             ]
         },
         {
-            "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-            "title": "Como fazer um background gradiente com css?",
+            "image": "https://www.aliancanerd.com.br/conteudo/wp-content/uploads/2019/12/Captura-de-Tela-112.png",
+            "title": "Doutor Destino é o regente de qual país?",
+            "description": "Faz tempo em haha",
+            "answer": 1,
+            "alternatives": [
+                "Sokovia",
+                "Latvéria",
+                "Genosha",
+                "Madripoor"
+            ]
+        },
+        {
+            "image": "https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/97F73A3B6059849099E1852422640CE457665A14C939ECFBF55A1C86294A595A/scale?width=1344&aspectRatio=1.78",
+            "title": "Qual a primeira formação dos X-Men?",
             "description": "Faz tempo em haha",
             "answer": 0,
             "alternatives": [
-                "background: linear-gradient(#e66465, #9198e5);",
-                "background: gradient(#e66465, #9198e5);"
+                "Ciclope, Jean, Fera, Anjo, Homem de Gelo",
+                "Ciclope, Jean, Tempestade, Wolverine",
+                "Destrutor, Fera, Mística, Fada",
+                "Ciclope, Wolverine, Colossus, Tempestade, Noturno, Banshee, Pássaro Trovejante"
+            ]
+        },
+        {
+            "image": "https://img.elo7.com.br/product/original/16F446D/placa-de-festa-vingadores-logo-batman.jpg",
+            "title": "Qual o primeiro inimigo enfrentado pelos Vingadores?",
+            "description": "Faz tempo em haha",
+            "answer": 3,
+            "alternatives": [
+                "Kang",
+                "Thanos",
+                "Ultron",
+                "Loki"
+            ]
+        },
+        {
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj87K0pTr6S07iCZAkOrQO_M2nyRNdCeMFBA&usqp=CAU",
+            "title": "Qual o nome do filho do Senhor Fantástico e da Mulher Invisível?",
+            "description": "Faz tempo em haha",
+            "answer": 2,
+            "alternatives": [
+                "Steve",
+                "Anthony",
+                "Franklin",
+                "Robert"
             ]
         }
     ],
     "external": [
-        ""
+        "https://avengersquiz.penadev.vercel.app/",
+        "https://aluraquiz-base.alura-challenges.vercel.app/",
+        "https://aluraquiz-css.omariosouto.vercel.app/"
     ],
     "theme": {
         "colors": {
